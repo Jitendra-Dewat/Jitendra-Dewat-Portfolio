@@ -65,13 +65,15 @@ body {
 .hero {
     padding: 2rem;
     padding-top: 5rem;
+    
 }
 
 .hero .hero-img {
-    max-width: 80%;
+    max-width: 30%;
     width: 350px;
     display: block;
     margin: auto;
+    border-radius: 50%;
 }
 
 .hero .hero-heading {
